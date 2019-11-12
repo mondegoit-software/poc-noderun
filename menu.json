@@ -1,0 +1,8 @@
+{ "text": "", "formats": [{
+  "screen": { "record format name": "menu" },
+  "items": [
+    { "id": "Layout1", "field type": "layout", "css class": "office-copy-defaults", "left": "100px", "top": "60px", "template": "css panel", "header text": "Admin Menu", "header theme": "office-copy-gray-header", "body theme": "office-copy-white-body", "height": "160px", "width": "515px", "css class 2": "office-copy-panel" }, 
+    { "id": "Button1", "field type": "button", "css class": "button", "value": "It Service Request Form", "left": "calc(50% - 137px)", "top": "30px", "width": "275px", "response": { "fieldName": "form", "customTrue": "", "customFalse": "", "dataType": "indicator", "formatting": "Indicator", "indFormat": "1 / 0" }, "layout": "Layout1", "container": "1" }, 
+    { "id": "Button2", "field type": "button", "css class": "button", "value": "Service Request List", "left": "calc(50% - 135px)", "top": "65px", "width": "270px", "response": { "fieldName": "list", "customTrue": "", "customFalse": "", "dataType": "indicator", "formatting": "Indicator", "indFormat": "1 / 0" }, "layout": "Layout1", "container": "1" }
+  ]
+}], "keywords": [], "long name aliases": true }

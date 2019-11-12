@@ -1,0 +1,6 @@
+{
+  "name": "poc-noderun",
+  "dependencies": {
+    "gmail-send": "^1.8.10"
+  }
+}
